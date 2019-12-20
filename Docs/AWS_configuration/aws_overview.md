@@ -14,5 +14,5 @@ API gateway recieves the data sent by Libelium and depending on its form and typ
 
 ## CloudFront
 
-CloudFront serves as the endpoint to which Libelium sends HTTP request with data that needs to be securely forwarded onto API gateway.S
+CloudFront serves as the endpoint to which Libelium sends HTTP request with data that needs to be securely forwarded onto API gateway.
 [Details are here](cloudfront.md)
