@@ -20,9 +20,15 @@ Our unit is configured to use only Wi-Fi for communication.
 
 ## Sensors
 
+### BME280 sensor
 We are using Libelium **BME sensor** module for monitoring of air **temperature**, air **pressure** and air **humidity**.
 
 ![bme sensor probe](bme_sensor_probe.jpg)
+
+### OPC-N3 PM sensor
+For measurment of air quality (air polution) we are using *Particle Matter – Dust Sensor (PM1 / PM2.5 / PM10)* also manufactured by Libelium
+
+![PM sensor](pm_sensor.jpg)
 
 ## Additional gear
 
